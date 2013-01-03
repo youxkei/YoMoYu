@@ -1,0 +1,6 @@
+[submodule "dgs"]
+	path = dgs
+	url = git@github.com:youkei/dgs.git
+[submodule "dspecs"]
+	path = dspecs
+	url = git@github.com:youkei/dspecs.git
