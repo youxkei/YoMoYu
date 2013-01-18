@@ -1,3 +1,5 @@
+module util;
+
 import dspecs;
 
 mixin template singleton()
